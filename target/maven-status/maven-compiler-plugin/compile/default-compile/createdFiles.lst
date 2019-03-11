@@ -1,0 +1,12 @@
+org\sonar\samples\java\MyJavaRulesPlugin.class
+org\sonar\samples\java\RulesList.class
+org\sonar\samples\java\checks\DTOVarNameCheck.class
+MyFirstCustomCheck.class
+org\sonar\samples\java\checks\BlockDTO.class
+org\sonar\samples\java\checks\SonarTestFile.class
+org\sonar\samples\java\checks\Test.class
+org\sonar\samples\java\MyJavaRulesDefinition$RuleMetatada.class
+org\sonar\samples\java\MyJavaRulesDefinition.class
+org\sonar\samples\java\MyJavaFileCheckRegistrar.class
+org\sonar\samples\java\checks\CustomFileCheck.class
+org\sonar\samples\java\MyJavaRulesDefinition$Remediation.class

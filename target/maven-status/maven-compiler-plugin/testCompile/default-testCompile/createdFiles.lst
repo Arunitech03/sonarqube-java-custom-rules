@@ -1,0 +1,2 @@
+org\sonar\samples\java\checks\MyFirstCustomCheckTest.class
+org\sonar\samples\java\MyJavaRulesDefinitionTest.class

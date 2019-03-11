@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/commons-csv-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/commons-dbutils-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/diffutils-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/elasticsearch-5.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/hazelcast-3.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/hazelcast-client-3.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/HdrHistogram-2.1.9.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/hppc-0.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/jackson-annotations-2.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/jackson-core-2.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/jackson-databind-2.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/jackson-dataformat-cbor-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/jackson-dataformat-smile-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/jackson-dataformat-yaml-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/javax.mail-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/jjwt-0.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/jna-4.4.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/joda-time-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/jopt-simple-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/log4j-api-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/log4j-to-slf4j-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/logback-access-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lucene-analyzers-common-6.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lucene-backward-codecs-6.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lucene-core-6.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lucene-grouping-6.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lucene-highlighter-6.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lucene-join-6.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lucene-memory-6.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lucene-misc-6.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lucene-queries-6.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lucene-queryparser-6.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lucene-sandbox-6.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lucene-spatial3d-6.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lucene-spatial-6.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lucene-spatial-extras-6.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lucene-suggest-6.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/lz4-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/mybatis-3.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/nanohttpd-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/netty-buffer-4.1.13.Final.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/netty-codec-4.1.13.Final.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/netty-codec-http-4.1.13.Final.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/netty-common-4.1.13.Final.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/netty-handler-4.1.13.Final.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/netty-resolver-4.1.13.Final.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/netty-transport-4.1.13.Final.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/okhttp-3.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/okio-1.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/parent-join-client-5.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/percolator-client-5.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/picocontainer-2.15.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/protobuf-java-3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/securesm-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/sonar-ce-7.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/sonar-classloader-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/sonar-core-7.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/sonar-db-core-7.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/sonar-db-dao-7.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/sonar-db-migration-7.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/sonar-main-7.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/sonar-markdown-7.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/sonar-plugin-api-7.1-all.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/sonar-plugin-bridge-7.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/sonar-process-7.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/sonar-scanner-protocol-7.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/sonar-server-7.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/sonar-update-center-common-1.18.0.487.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/sonar-ws-7.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/staxmate-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/t-digest-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/tomcat-annotations-api-8.5.23.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/tomcat-embed-core-8.5.23.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/transport-5.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/transport-netty4-client-5.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/lib/common/woodstox-core-lgpl-4.4.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/YesTelecom/Eclipse-Workspace/TestSonar/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/YesTelecom/Eclipse-Workspace/TestSonar/sonar-ws-client-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/extensions/plugins/sonar-csharp-plugin-7.0.1.4822.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/extensions/plugins/sonar-flex-plugin-2.4.0.1222.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/extensions/plugins/sonar-java-plugin-5.4.0.14284.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/extensions/plugins/sonar-javascript-plugin-4.1.0.6085.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/extensions/plugins/sonar-php-plugin-2.13.0.3107.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/extensions/plugins/sonar-python-plugin-1.9.1.2080.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/extensions/plugins/sonar-scm-git-plugin-1.4.0.1037.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/extensions/plugins/sonar-scm-svn-plugin-1.7.0.1017.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/extensions/plugins/sonar-typescript-plugin-1.6.0.2388.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/sonarqube-7.1/extensions/plugins/sonar-xml-plugin-1.5.0.1373.jar"/>
+	<classpathentry kind="lib" path="C:/WorkPlace/SonarCustomRulesJavaProject/sonar-custom-rules-examples/dependencyjars/javascript-frontend-2.9.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

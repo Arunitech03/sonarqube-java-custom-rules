@@ -1,0 +1,9 @@
+C:\WorkPlace\SonarCustomRulesJavaProject\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\SonarTestFile.java
+C:\WorkPlace\SonarCustomRulesJavaProject\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\MyJavaRulesDefinition.java
+C:\WorkPlace\SonarCustomRulesJavaProject\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\RulesList.java
+C:\WorkPlace\SonarCustomRulesJavaProject\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\CustomFileCheck.java
+C:\WorkPlace\SonarCustomRulesJavaProject\sonar-custom-rules-examples\java-custom-rules\src\main\java\MyFirstCustomCheck.java
+C:\WorkPlace\SonarCustomRulesJavaProject\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\MyJavaRulesPlugin.java
+C:\WorkPlace\SonarCustomRulesJavaProject\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\MyJavaFileCheckRegistrar.java
+C:\WorkPlace\SonarCustomRulesJavaProject\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\BlockDTO.java
+C:\WorkPlace\SonarCustomRulesJavaProject\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\DTOVarNameCheck.java
